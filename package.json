@@ -13,7 +13,7 @@
   "license": "MIT",
   "description": "hemera 插件",
   "dependencies": {
-    "@wongyouth/wxpay": "0.0.1",
+    "@wongyouth/wxpay": "0.0.3",
     "hemera-plugin": "^2.0.1",
     "lodash": "^4.17.11"
   },
