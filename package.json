@@ -1,0 +1,32 @@
+{
+  "name": "@wongyouth/hemera-wxpay",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hemera",
+    "pay"
+  ],
+  "author": "Ryan Wang (https://github.com/wongyouth)",
+  "license": "MIT",
+  "description": "hemera 插件",
+  "dependencies": {
+    "@wongyouth/wxpay": "0.0.1",
+    "hemera-plugin": "^2.0.1",
+    "lodash": "^4.17.11"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wongyouth/hemera-wxpay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wongyouth/hemera-wxpay/issues"
+  },
+  "homepage": "https://github.com/wongyouth/hemera-wxpay#readme"
+}
